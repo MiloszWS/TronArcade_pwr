@@ -1,0 +1,14 @@
+# ninja log v5
+1	168	7616156400196415	build.ninja	5b4b0705f5fc2ef6
+46	1484	7077547732260661	CMakeFiles/TronArcade.dir/modeChoose.cpp.obj	2c5cff60b53f88e7
+4	1218	7156514939138259	CMakeFiles/TronArcade.dir/SFMLController.cpp.obj	14c1d5315d48cfd0
+25	278	7077097207493152	CMakeFiles/TronArcade.dir/Timer.cpp.obj	f58a298c9a044faf
+4	588	7156474558515244	CMakeFiles/TronArcade.dir/main.cpp.obj	74f18b04aa4b2b8f
+1218	1779	7156514944541857	TronArcade.exe	9210f21b3a35c44b
+38	1429	7077547731480462	CMakeFiles/TronArcade.dir/menuScreen.cpp.obj	bebdfaddddf298f
+7	570	7156509909156527	CMakeFiles/TronArcade.dir/Integrator.cpp.obj	d422ed1454d712f1
+21	1632	7077485544978944	CMakeFiles/TronArcade.dir/motorsTextView.cpp.obj	a72c7d7dd61394ae
+18	919	7077480471716020	CMakeFiles/TronArcade.dir/boardTextView.cpp.obj	9f3f88170161f6e5
+12	1451	7077547731900579	CMakeFiles/TronArcade.dir/SFMLView.cpp.obj	e781744ad1f43db4
+31	1426	7077547731420459	CMakeFiles/TronArcade.dir/motor2.cpp.obj	db4dbb0d405ab23e
+1	206	7616156400196415	build.ninja	5b4b0705f5fc2ef6
